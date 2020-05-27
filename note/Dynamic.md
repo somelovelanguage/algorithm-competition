@@ -5,3 +5,6 @@ ide用起来是真滴香，**爽的一批**
 [toc]
 
 s舒服了
+
+
+SPMS$Student.class SPMS.class SPMS/SPMS.java SPMS/note.md
